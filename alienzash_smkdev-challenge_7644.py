@@ -5,5 +5,3 @@ def base(n) :
         d = x*(i+1)
         total += int(d)
     return total
-
-print(base(5))
